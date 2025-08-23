@@ -15,7 +15,7 @@ Welcome! Here you can download several versions of the Mathematics deck for Anki
 3. Go to `File` > `Import...` and select the downloaded deck file.
 4. The deck will appear in your Anki collection.
 
-![Tutorial Screenshot](./imageothers/download.png)
+![Tutorial Screenshot](./others/download.png)
 
 ## About Duplicates
 
