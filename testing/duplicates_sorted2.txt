@@ -1,0 +1,7 @@
+Analyze concavity:
+https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-6b/e/analyze-concavity-algebraic
+https://www.khanacademy.org/math/ap-calculus-bc/bc-diff-analytical-applications-new/bc-5-6b/e/analyze-concavity-algebraic
+https://www.khanacademy.org/math/calculus-1/cs1-analyzing-functions/cs1-analyzing-concavity-and-inflection-points/e/analyze-concavity-algebraic
+Area between two polar curves:
+https://www.khanacademy.org/math/ap-calculus-bc/bc-advanced-functions-new/bc-9-9/e/area-between-two-polar-curves
+https://www.khanacademy.org/math/calculus-2/cs2-parametric-equations-polar-coordinates-and-vector-valued-functions/cs2-area-polar-regions-two-curves/e/area-between-two-polar-curves

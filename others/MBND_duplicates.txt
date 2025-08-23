@@ -1,0 +1,18 @@
+Volume and surface area of cylinders
+https://www.khanacademy.org/math/geometry/hs-geo-solids/hs-geo-solids-intro/e/solid_geometry
+https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:solids/xe2ae2386aa2e13d6:solids-intro/e/solid_geometry
+Translate shapes
+https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-translations/e/translations
+https://www.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/basic-geometry-translations/e/translations
+Intercepts from a graph
+https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope/alg-basics-x-and-y-intercepts/e/linear-function-intercepts
+https://www.khanacademy.org/math/pre-algebra/xb4832e56:two-variable-equations/xb4832e56:intercepts/e/linear-function-intercepts
+Graph from linear standard form
+https://www.khanacademy.org/math/math1/x89d82521517266d4:linear-forms/x89d82521517266d4:standard/e/graph-from-standard-form-equation
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:standard-form/e/graph-from-standard-form-equation
+Extend geometric sequences
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-geometric-sequences/e/geometric_sequences_1
+https://www.khanacademy.org/math/math1/x89d82521517266d4:sequences/x89d82521517266d4:geo-seq-intro/e/geometric_sequences_1
+Evaluate function expressions
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions/x2f8bb11595b61c86:evaluating-functions/e/functions_2}
+https://www.khanacademy.org/math/math1/x89d82521517266d4:functions/x89d82521517266d4:func-eval/e/functions_2

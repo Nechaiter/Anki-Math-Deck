@@ -1,0 +1,762 @@
+{
+  "courses": [
+    {
+      "courseName": "Integrated math 1",
+      "link": "https://www.khanacademy.org/math/math1",
+      "units": [
+        {
+          "unitName": "Unit 1: Algebra foundations",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:algebra-foundation",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 2: Solving equations & inequalities",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:eq-ineq",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 3: Working with units",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:units",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 4: Linear equations & graphs",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:two-var-eq",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 5: Forms of linear equations",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:linear-forms",
+          "exercises": [
+            {
+              "exerciseName": "Graph from linear standard form",
+              "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:linear-forms/x89d82521517266d4:standard/e/graph-from-standard-form-equation"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 6: Systems of equations",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:systems",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 7: Inequalities (systems & graphs)",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:two-var-ineq",
+          "exercises": [
+            {
+              "exerciseName": "Analyzing structure with linear inequalities",
+              "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:two-var-ineq/x89d82521517266d4:ineq-modeling/e/compare-expressions-with-unknown-variables-word-problems"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 8: Functions",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:functions",
+          "exercises": [
+            {
+              "exerciseName": "Evaluate function expressions",
+              "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:functions/x89d82521517266d4:func-eval/e/functions_2"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 9: Scatterplots",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:scatterplots",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 10: Data distributions",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:data-dist",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 11: Two-way tables",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:two-way-tables",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 12: Sequences",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:sequences",
+          "exercises": [
+            {
+              "exerciseName": "Extend geometric sequences",
+              "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:sequences/x89d82521517266d4:geo-seq-intro/e/geometric_sequences_1"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 13: Exponents & radicals",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:exp-rad",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 14: Exponential growth & decay",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:exp-func",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 15: Performing transformations",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:transformations",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 16: Transformation properties and proofs",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:transformation-properties-and-proofs",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 17: Congruence",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:congruence",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 18: Analytic geometry",
+          "link": "https://www.khanacademy.org/math/math1/x89d82521517266d4:analytic-geo",
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "courseName": "Integrated math 2",
+      "link": "https://www.khanacademy.org/math/math2",
+      "units": [
+        {
+          "unitName": "Unit 1: Absolute value & piecewise functions",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:abs-value",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 2: Quadratics: Multiplying & factoring",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:quad-1",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 3: Quadratic functions & equations",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:quad-2",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 4: Irrational numbers",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:irrationals",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 5: Complex numbers",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:complex",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 6: Rational exponents and radicals",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:rational-exp",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 7: Exponential models",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:exp-models",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 8: Similarity",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:similarity",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 9: Right triangles & trigonometry",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:trig",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 10: Solid geometry",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:solids",
+          "exercises": [
+            {
+              "exerciseName": "Volume and surface area of cylinders",
+              "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:solids/xe2ae2386aa2e13d6:solids-intro/e/solid_geometry"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 11: Circles",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:circles",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 12: Conic sections",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:conics",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 13: Probability",
+          "link": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:prob",
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "courseName": "Integrated math 3",
+      "link": "https://www.khanacademy.org/math/math3",
+      "units": [
+        {
+          "unitName": "Unit 1: Polynomial arithmetic",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:poly-arithmetic",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 2: Polynomial factorization",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:factorization",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 3: Polynomial division",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:poly-div",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 4: Polynomial graphs",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:poly-graphs",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 5: Logarithms",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:logs",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 6: Transformations of functions",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:transformations",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 7: Equations",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:equations",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 8: Trigonometry",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:math2-trig-func",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 9: Modeling",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:modeling",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 10: Study Design",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:study-design",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 11: Binomial probability",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:binomial-prob",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 12: Normal distributions",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:normal-dist",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 13: Rational functions",
+          "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:rationals",
+          "exercises": [
+            {
+              "exerciseName": "Simplify rational expressions (advanced)",
+              "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:rationals/x5549cc1686316ba5:common-factors/e/simplifying_rational_expressions_3"
+            },
+            {
+              "exerciseName": "Analyze vertical asymptotes of rational functions",
+              "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:rationals/x5549cc1686316ba5:rational-discontinuities/e/analyze-vertical-asymptotes-of-rational-functions"
+            },
+            {
+              "exerciseName": "Multiply & divide rational expressions (advanced)",
+              "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:rationals/x5549cc1686316ba5:rational-mul-div/e/multiplying_and_dividing_rational_expressions_3"
+            },
+            {
+              "exerciseName": "Add & subtract rational expressions: like denominators",
+              "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:rationals/x5549cc1686316ba5:rational-add-sub-intro/e/adding_and_subtracting_rational_expressions"
+            },
+            {
+              "exerciseName": "Add & subtract rational expressions: factored denominators",
+              "link": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:rationals/x5549cc1686316ba5:rational-add-sub-factored/e/adding_and_subtracting_rational_expressions_3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "APCollege Calculus AB",
+      "link": "https://www.khanacademy.org/math/ap-calculus-ab",
+      "units": [
+        {
+          "unitName": "Unit 1: Limits and continuity",
+          "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 2: Differentiation: definition and basic derivative rules",
+          "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 3: Differentiation: composite, implicit, and inverse functions",
+          "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 4: Contextual applications of differentiation",
+          "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 5: Applying derivatives to analyze functions",
+          "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 6: Integration and accumulation of change",
+          "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 7: Differential equations",
+          "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-differential-equations-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 8: Applications of integration",
+          "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-applications-of-integration-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 9: AP Calculus AB solved free response questions from past exams",
+          "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-solved-exams-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 10: AP®︎ Calculus AB Standards mappings",
+          "link": "https://www.khanacademy.org/math/ap-calculus-ab/ap-calc-ab-standards-mappings",
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "courseName": "APCollege Calculus BC",
+      "link": "https://www.khanacademy.org/math/ap-calculus-bc",
+      "units": [
+        {
+          "unitName": "Unit 1: Limits and continuity",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-limits-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 2: Differentiation: definition and basic derivative rules",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-differentiation-1-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 3: Differentiation: composite, implicit, and inverse functions",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-differentiation-2-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 4: Contextual applications of differentiation",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-diff-contextual-applications-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 5: Applying derivatives to analyze functions",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-diff-analytical-applications-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 6: Integration and accumulation of change",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-integration-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 7: Differential equations",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-differential-equations-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 8: Applications of integration",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-applications-of-integration-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 9: Parametric equations, polar coordinates, and vector-valued functions",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-advanced-functions-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 10: Infinite sequences and series",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 11: AP Calculus BC solved exams",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-solved-exams-new",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 12: AP®︎ Calculus BC Standards mappings",
+          "link": "https://www.khanacademy.org/math/ap-calculus-bc/ap-calc-bc-standards-mappings",
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "courseName": "APCollege Statistics",
+      "link": "https://www.khanacademy.org/math/ap-statistics",
+      "units": [
+        {
+          "unitName": "Unit 1: Exploring categorical data",
+          "link": "https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap",
+          "exercises": [
+            {
+              "exerciseName": "Read bar graphs",
+              "link": "https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/xfb5d8e68:categorical-variable-graphs/e/solving-problems-with-bar-graphs-3"
+            },
+            {
+              "exerciseName": "Mosaic plots",
+              "link": "https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/stats-two-way-tables/e/mosaic-plots"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 2: Exploring one-variable quantitative data: Displaying and describing",
+          "link": "https://www.khanacademy.org/math/ap-statistics/quantitative-data-ap",
+          "exercises": [
+            {
+              "exerciseName": "Describing distributions",
+              "link": "https://www.khanacademy.org/math/ap-statistics/quantitative-data-ap/xfb5d8e68:describing-distribution-quant/e/describing-distribution"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 3: Exploring one-variable quantitative data: Summary statistics",
+          "link": "https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 4: Exploring one-variable quantitative data: Percentiles, z-scores, and the normal distribution",
+          "link": "https://www.khanacademy.org/math/ap-statistics/density-curves-normal-distribution-ap",
+          "exercises": [
+            {
+              "exerciseName": "Comparing with z-scores",
+              "link": "https://www.khanacademy.org/math/ap-statistics/density-curves-normal-distribution-ap/measuring-position/e/comparing-z-scores"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 5: Exploring two-variable quantitative data",
+          "link": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap",
+          "exercises": [
+            {
+              "exerciseName": "Describing scatterplots",
+              "link": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/scatterplots-correlation/e/describing-scatterplots"
+            },
+            {
+              "exerciseName": "Using least-squares regression output",
+              "link": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/least-squares-regression/e/LSR-output"
+            },
+            {
+              "exerciseName": "Identify influential points",
+              "link": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/e/identifying-influential-points"
+            },
+            {
+              "exerciseName": "Predict with transformed data",
+              "link": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/e/predict-transformed"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 6: Collecting data",
+          "link": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 7: Probability",
+          "link": "https://www.khanacademy.org/math/ap-statistics/probability-ap",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 8: Random variables and probability distributions",
+          "link": "https://www.khanacademy.org/math/ap-statistics/random-variables-ap",
+          "exercises": [
+            {
+              "exerciseName": "Geometric distributions",
+              "link": "https://www.khanacademy.org/math/ap-statistics/random-variables-ap/geometric-random-variable/e/geometric-distributions"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 9: Sampling distributions",
+          "link": "https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap",
+          "exercises": [
+            {
+              "exerciseName": "Mean and standard deviation of difference of sample proportions",
+              "link": "https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/xfb5d8e68:sampling-distribution-diff-proportions/e/sampling-distribution-diff-proportions"
+            },
+            {
+              "exerciseName": "Shape of sampling distributions for differences in sample proportions",
+              "link": "https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/xfb5d8e68:sampling-distribution-diff-proportions/e/conditions-diff-sample-proportions"
+            },
+            {
+              "exerciseName": "Mean and standard deviation of difference of sample means",
+              "link": "https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/xfb5d8e68:sampling-distribution-diff-means/e/sampling-distribution-diff-sample-means"
+            },
+            {
+              "exerciseName": "Shape of sampling distributions for differences in sample means",
+              "link": "https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/xfb5d8e68:sampling-distribution-diff-means/e/conditions-distributions-diff-sample-means"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 10: Inference for categorical data: Proportions",
+          "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions",
+          "exercises": [
+            {
+              "exerciseName": "Conditions for inference on two proportions",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/two-sample-z-interval-proportions/e/conditions-two-sample-z-interval-difference-proportions"
+            },
+            {
+              "exerciseName": "Two-sample z interval for the difference of proportions",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/two-sample-z-interval-proportions/e/calculating-two-sample-z-interval--difference-proportions"
+            },
+            {
+              "exerciseName": "Writing hypotheses for testing the difference of proportions",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/two-sample-z-test-proportions/e/hypotheses-two-sample-z-test-proportions"
+            },
+            {
+              "exerciseName": "Test statistic in a two-sample z test for the difference of proportions",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/two-sample-z-test-proportions/e/test-statistic-p-value-two-sample-z-test-proportions"
+            },
+            {
+              "exerciseName": "P-value in a two-sample z test for the difference of proportions",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/two-sample-z-test-proportions/e/p-value-difference-proportions"
+            },
+            {
+              "exerciseName": "Making conclusions about the difference of proportions",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/two-sample-z-test-proportions/e/conclusions-two-sample-z-test-proportions"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 11: Inference for quantitative data: Means",
+          "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means",
+          "exercises": [
+            {
+              "exerciseName": "Conditions for inference on two means",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-interval-means/e/conditions-two-sample-t-interval-difference-means"
+            },
+            {
+              "exerciseName": "Two-sample t interval for the difference of means (calculator-active)",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-interval-means/e/calculating-two-sample-t-interval-difference-means"
+            },
+            {
+              "exerciseName": "Writing hypotheses to test the difference of means",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/e/hypotheses-two-sample-t-test-means"
+            },
+            {
+              "exerciseName": "Test statistic in a two-sample t test",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/e/test-statistic-p-value-two-sample-t-test-means"
+            },
+            {
+              "exerciseName": "P-value in a two-sample t test",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/e/p-value-in-a-two-sample-t-test-for-the-difference-of-means"
+            },
+            {
+              "exerciseName": "Making conclusions about the difference of means",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/e/conclusions-two-sample-t-test-means"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 12: Inference for categorical data: Chi-square",
+          "link": "https://www.khanacademy.org/math/ap-statistics/chi-square-tests",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 13: Inference for quantitative data: slopes",
+          "link": "https://www.khanacademy.org/math/ap-statistics/inference-slope-linear-regression",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 14: Prepare for the 2022 AP®︎ Statistics Exam",
+          "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:prepare-for-the-2022-ap-statistics-exam",
+          "exercises": [
+            {
+              "exerciseName": "Choosing an appropriate inference procedure",
+              "link": "https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:prepare-for-the-2022-ap-statistics-exam/prepare-for-ap-stats-exam/e/choosing-inference-procedure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "Calculus 1",
+      "link": "https://www.khanacademy.org/math/calculus-1",
+      "units": [
+        {
+          "unitName": "Unit 1: Limits and continuity",
+          "link": "https://www.khanacademy.org/math/calculus-1/cs1-limits-and-continuity",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 2: Derivatives: definition and basic rules",
+          "link": "https://www.khanacademy.org/math/calculus-1/cs1-derivatives-definition-and-basic-rules",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 3: Derivatives: chain rule and other advanced topics",
+          "link": "https://www.khanacademy.org/math/calculus-1/cs1-derivatives-chain-rule-and-other-advanced-topics",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 4: Applications of derivatives",
+          "link": "https://www.khanacademy.org/math/calculus-1/cs1-applications-of-derivatives",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 5: Analyzing functions",
+          "link": "https://www.khanacademy.org/math/calculus-1/cs1-analyzing-functions",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 6: Integrals",
+          "link": "https://www.khanacademy.org/math/calculus-1/cs1-integrals",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 7: Differential equations",
+          "link": "https://www.khanacademy.org/math/calculus-1/cs1-differential-equations",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 8: Applications of integrals",
+          "link": "https://www.khanacademy.org/math/calculus-1/cs1-applications-of-integrals",
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "courseName": "Calculus 2",
+      "link": "https://www.khanacademy.org/math/calculus-2",
+      "units": [
+        {
+          "unitName": "Unit 1: Integrals review",
+          "link": "https://www.khanacademy.org/math/calculus-2/cs2-integrals-review",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 2: Integration techniques",
+          "link": "https://www.khanacademy.org/math/calculus-2/cs2-integration-techniques",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 3: Differential equations",
+          "link": "https://www.khanacademy.org/math/calculus-2/cs2-differential-equations",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 4: Applications of integrals",
+          "link": "https://www.khanacademy.org/math/calculus-2/cs2-applications-of-integrals",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 5: Parametric equations, polar coordinates, and vector-valued functions",
+          "link": "https://www.khanacademy.org/math/calculus-2/cs2-parametric-equations-polar-coordinates-and-vector-valued-functions",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 6: Series",
+          "link": "https://www.khanacademy.org/math/calculus-2/cs2-series",
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "courseName": "College Algebra",
+      "link": "https://www.khanacademy.org/math/college-algebra",
+      "units": [
+        {
+          "unitName": "Unit 1: Linear equations and inequalities",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities",
+          "exercises": [
+            {
+              "exerciseName": "Absolute value equations",
+              "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:absolute-value-equations/e/absolute-value-equations"
+            }
+          ]
+        },
+        {
+          "unitName": "Unit 2: Graphs and forms of linear equations",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:graphs-and-forms-of-linear-equations",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 3: Functions",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:functions",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 4: Quadratics: Multiplying and factoring",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:quadratics-multiplying-and-factoring",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 5: Quadratic functions and equations",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:quadratic-functions-and-equations",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 6: Complex numbers",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:complex-numbers",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 7: Exponents and radicals",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:exponents-and-radicals",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 8: Rational expressions and equations",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:rational-expressions-and-equations",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 9: Relating algebra and geometry",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:relating-algebra-and-geometry",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 10: Polynomial arithmetic",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:polynomial-arithmetic",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 11: Advanced function types",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:advanced-function-types",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 12: Transformations of functions",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:transformations-of-functions",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 13: Rational exponents and radicals",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:rational-exponents-and-radicals",
+          "exercises": []
+        },
+        {
+          "unitName": "Unit 14: Logarithms",
+          "link": "https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:logarithms",
+          "exercises": []
+        }
+      ]
+    }
+  ]
+}
